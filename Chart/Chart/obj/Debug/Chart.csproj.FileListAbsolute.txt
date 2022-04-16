@@ -1,0 +1,12 @@
+C:\Users\Ernur\source\repos\Chart\Chart\bin\Debug\Chart.exe.config
+C:\Users\Ernur\source\repos\Chart\Chart\bin\Debug\Chart.exe
+C:\Users\Ernur\source\repos\Chart\Chart\bin\Debug\Chart.pdb
+C:\Users\Ernur\source\repos\Chart\Chart\obj\Debug\Chart.csproj.AssemblyReference.cache
+C:\Users\Ernur\source\repos\Chart\Chart\obj\Debug\Chart.Form1.resources
+C:\Users\Ernur\source\repos\Chart\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\Ernur\source\repos\Chart\Chart\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\Ernur\source\repos\Chart\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\Ernur\source\repos\Chart\Chart\obj\Debug\Chart.exe
+C:\Users\Ernur\source\repos\Chart\Chart\obj\Debug\Chart.pdb
+C:\Users\Ernur\source\repos\Chart\Chart\obj\Debug\Chart.Form2.resources
+C:\Users\Ernur\source\repos\Chart\Chart\obj\Debug\Chart.Form3.resources
